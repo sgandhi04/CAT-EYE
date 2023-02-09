@@ -1,4 +1,4 @@
-# The steps implemented in the object detection sample code: 
+
 # 1. for an image of width and height being (w, h) pixels, resize image to (w', h'), where w/h = w'/h' and w' x h' = 262144
 # 2. resize network input size to (w', h')
 # 3. pass the image to network and do inference
